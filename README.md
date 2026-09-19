@@ -30,6 +30,7 @@ I am currently developing my skills in Python, SQL, data analysis, machine learn
 ### 🤖 Machine Learning
 - Scikit-learn
 - Classification
+- Régression
 - Prétraitement des données
 - Évaluation des modèles
 
@@ -38,12 +39,15 @@ I am currently developing my skills in Python, SQL, data analysis, machine learn
 - Apache Kafka
 - PostgreSQL
 
-### 💻 Outils
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
+### 📈 Visualisation & Applications Data
 - Streamlit
+- Jupyter Notebook
+- Data Visualization
 
+### 💻 Outils
+- Git
+- GitHub
+- VS Code
 ---
 
 ## 📊 Projets
